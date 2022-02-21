@@ -1,7 +1,7 @@
 # worldle-solver
 
 ## Why?
-I've been told that this "ruins the spirit of the game", however I completely disagree. If the goal of the game is to use logic and brainpower to guess the word, creating algorithms from scratch and creating a technological solution qualifies.
+I've been told that this "ruins the spirit of the game", however I completely disagree. If the goal of the game is to use logic and brainpower to guess the word, creating a program and thus an automated/technological solution qualifies.
 
 ## To Run:
 - Compile (duh)
